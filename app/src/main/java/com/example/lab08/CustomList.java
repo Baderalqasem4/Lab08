@@ -21,4 +21,5 @@ public class CustomList {
         return cities.contains(city);
      }
 
+
 }
